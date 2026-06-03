@@ -17,7 +17,7 @@ on:
       REPO_URL:
         description: 'Set Source_URL'
         required: true
-        default: 'https://github.com/hanwckf/immortalwrt-mt798x'
+        default: 'https://github.com/hminid/immortalwrt-mt798x'
       REPO_BRANCH:
         description: 'Select Source Branch'
         required: true
